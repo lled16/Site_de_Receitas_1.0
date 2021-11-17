@@ -1,0 +1,157 @@
+body{
+        padding:0;
+        margin: 0;
+        overflow-x: hidden;
+        
+        
+    }
+
+
+
+   
+
+    .apresentacao{
+      
+        height:70vh;
+        background-color:#264653;
+        width: 100vw;
+        background-position:center;
+        background-size:cover;
+        
+       
+        
+
+    }
+
+
+    .navbar{
+        background-color: #6d1515da;
+        height: 8vh;
+        text-align: center;
+        
+
+    }
+    input {
+        width:40vw;
+        position: relative;
+        border-radius: 50px;
+        height:8vh ;
+        border: none;
+      
+        outline: none;
+        font-size: 30px;
+        font-weight: bold;
+        padding-left: 50px;
+        
+        
+    }
+    a{
+        text-decoration: none;
+        
+    }
+
+    .botao-cadastrar{
+        position: relative;
+        
+    }
+
+    .busca{
+        position: relative;
+        top:23vh;
+        right: 9vh;
+        color: black;
+        
+        
+    }
+    .busca2{
+        position: relative;
+        top:28vh;
+        right: 1vh;
+        color: BLACK; 
+    }
+
+    .busca3{
+        position: relative;
+        color: BLACK; 
+        left: 1vw;
+        top: 0.5vh;
+    }
+
+
+    button{
+        -webkit-box-shadow: 0px 5px 15px 5px #595959; 
+        box-shadow: 0px 5px 15px 5px #595959;
+        
+    }
+
+   
+    #placeholder-text::placeholder {
+        color: black;
+        font-size: 20px;
+        position: relative;
+        top: -0.5vh;
+        
+        opacity: 0.7;
+    }
+
+
+    .cartao{
+        
+        -webkit-box-shadow: 0px 0px 50px -15px rgba(0,0,0,0.76); 
+        box-shadow: 0px 0px 50px -15px rgba(0,0,0,0.76);
+        padding-top: 10px;
+        
+        
+        
+    }
+    
+    .btn-warning {
+        background-color: #E9C46A;
+        border-color: #E9C46A;
+
+    }
+
+    .btn-warning:hover{
+        background-color: orange;
+    }
+
+
+    .imgReceita{
+        -webkit-box-shadow: 0px 5px 15px 5px #595959; 
+        box-shadow: 0px 5px 15px 5px #595959;
+        
+        
+    }
+
+
+
+acao:hover{
+
+    background-color: blue;
+}
+
+.box {
+    float: left;
+    width: 256px;
+    height: 128px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    overflow: hidden;
+  }
+  
+  .bg {
+    background-image: url('https://image.flaticon.com/icons/png/512/944/944939.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  
