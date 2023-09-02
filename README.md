@@ -1,2 +1,2 @@
-# moog-receitas
+# Site de receitas
  
